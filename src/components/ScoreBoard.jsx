@@ -1,8 +1,10 @@
-export default function ScoreBoard() {
+import ScoreBoardStyles from "./ScoreBoard.module.css";
+
+export default function ScoreBoard({ score, bestScore }) {
     return (
-        <div className="score-board">
-            <div className="score"></div>
-            <div className="best-score"></div>
+        <div className={ScoreBoardStyles["score-board"]}>
+            <span>Score: {score}</span>
+            <span>Best score: {bestScore}</span>
         </div>
     );
 }

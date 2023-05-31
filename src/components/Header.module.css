@@ -1,0 +1,12 @@
+.header {
+    font-family: Acme, "sans-serif";
+    color: #b8860b;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 12px;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
