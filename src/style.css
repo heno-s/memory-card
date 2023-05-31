@@ -1,3 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Galada&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Acme&family=Galada&display=swap");
+@import url(./variables.css);
 @import url(./resets.css);
+
+body {
+    background-color: var(--primary-color);
+    padding: 8px 16px 0;
+}
