@@ -1,3 +1,7 @@
+import CardContainerStyles from "./CardContainer.module.css";
+
 export default function CardContainer() {
-    return <div>CardContainer</div>;
+    return (
+        <div className={CardContainerStyles["card-container"]}></div>
+    );
 }
