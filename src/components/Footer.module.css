@@ -1,0 +1,21 @@
+.footer {
+    background-color: rgb(49, 48, 48);
+    color: #fff;
+    font-family: Acme, "sans-serif";
+    padding: 8px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    font-size: 1.5rem;
+    margin: 0 -16px; /* body has side padding of 16px, so negate it */
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer span {
+    margin-right: 10px;
+}
