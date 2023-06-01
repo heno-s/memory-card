@@ -1,7 +1,7 @@
 import ScoreBoard from "./ScoreBoard.jsx";
 import HeaderStyles from "./Header.module.css";
 
-export default function Header() {
+export default function Header({ score, bestScore }) {
     return (
         <div className={HeaderStyles.header}>
             <div>
@@ -14,7 +14,7 @@ export default function Header() {
                 </span>
             </div>
 
-            <ScoreBoard />
+            <ScoreBoard score={score} bestScore={bestScore} />
         </div>
     );
 }
