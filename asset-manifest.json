@@ -1,14 +1,25 @@
 {
   "files": {
     "main.css": "/memory-card/static/css/main.cc1fd29e.css",
-    "main.js": "/memory-card/static/js/main.412baf76.js",
+    "main.js": "/memory-card/static/js/main.f0f3d733.js",
+    "static/media/leopold.png": "/memory-card/static/media/leopold.1b852d43e44df5c1ac20.png",
+    "static/media/sadie.png": "/memory-card/static/media/sadie.977b3063a703f313a820.png",
+    "static/media/sylvia.png": "/memory-card/static/media/sylvia.2810c35be49f95a55dc8.png",
+    "static/media/mayor.jpg": "/memory-card/static/media/mayor.77f7968d465e71ade2da.jpg",
+    "static/media/captain.png": "/memory-card/static/media/captain.4d0c382e57f14859f73e.png",
+    "static/media/sprig.png": "/memory-card/static/media/sprig.ee686914cf5982cf137c.png",
+    "static/media/hop.png": "/memory-card/static/media/hop.bdf9504c1512f5dbf9b4.png",
+    "static/media/polly.png": "/memory-card/static/media/polly.320a10d1c336f00dfd2e.png",
+    "static/media/wally.png": "/memory-card/static/media/wally.6f127c1f0c909a24374e.png",
+    "static/media/sasha.jpg": "/memory-card/static/media/sasha.1d53515b533e1e26d441.jpg",
+    "static/media/maddie.jpg": "/memory-card/static/media/maddie.807c74ce60527eacdfa8.jpg",
     "static/media/anne.jpg": "/memory-card/static/media/anne.d5e81b39ef3842cd50de.jpg",
     "index.html": "/memory-card/index.html",
     "main.cc1fd29e.css.map": "/memory-card/static/css/main.cc1fd29e.css.map",
-    "main.412baf76.js.map": "/memory-card/static/js/main.412baf76.js.map"
+    "main.f0f3d733.js.map": "/memory-card/static/js/main.f0f3d733.js.map"
   },
   "entrypoints": [
     "static/css/main.cc1fd29e.css",
-    "static/js/main.412baf76.js"
+    "static/js/main.f0f3d733.js"
   ]
 }
